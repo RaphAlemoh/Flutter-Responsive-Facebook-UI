@@ -4,3 +4,4 @@ brigthness: Brigthness.light replaced with systemOverlayStyle: SystemUiOverlaySt
 
 FlatButton widget replaced with TextButton 
 
+OutlineButton replaced with OutlinedButton
